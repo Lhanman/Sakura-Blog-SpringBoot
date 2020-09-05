@@ -1,2 +1,2 @@
 # Sakura-Blog-SpringBoot
-SpringBoot + React 实现的个人博客-SpringBoot后台
+基于 SpringBoot 实现的博客系统
